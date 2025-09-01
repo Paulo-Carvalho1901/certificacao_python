@@ -1,0 +1,1 @@
+# Which of the following methods can be used to remove an item from a list?

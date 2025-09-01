@@ -1,0 +1,1 @@
+# What is a similarity between tuples and lists in Python?
