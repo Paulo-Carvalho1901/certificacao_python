@@ -6,3 +6,5 @@ def boo(x):
         return x * boo(x-1)
  
 print(boo(3))
+# função de recursividade de função
+# x! 3 = 3! 3 * 2 * 1 = 6
