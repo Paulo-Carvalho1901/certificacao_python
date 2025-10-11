@@ -3,6 +3,6 @@
 
 True
 
-list = [False, '2', 3, 4, 5]
-b = list[1]
+lista = [False, '2', 3, 4, 5]
+b = lista[1]
 print(b)
