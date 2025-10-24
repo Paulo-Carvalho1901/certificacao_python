@@ -19,3 +19,17 @@ print(0.4)
 print(.4)
 
 print(0.0000000000000000000001)
+
+# Strings
+
+print("Eu gosto \"Monty Python\"")
+print('Eu gosto "Monty Python"')
+ 
+print('I\'m Monty Python.')
+print("I'm Monty Python.")
+
+
+# Booleanos
+
+print(True > False)
+print(True < False)
