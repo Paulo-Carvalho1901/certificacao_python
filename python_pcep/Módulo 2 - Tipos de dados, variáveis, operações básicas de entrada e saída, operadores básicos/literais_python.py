@@ -12,3 +12,8 @@ print(0o123)
 print(0x123)
 
 # Float
+print(2.5)
+print(-0.4)
+
+print(0.4)
+print(.4)
